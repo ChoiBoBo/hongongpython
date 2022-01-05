@@ -10,7 +10,7 @@ pi = 3.14
 round = 2 * pi * r
 # print(round)
 
-# 그 입력을을 통해 원의 면접 구하기 // 
+# 그 입력을을 통해 원의 면접 구하기 // pi * (r**2)
 area = pi * (r ** 2)
 print(area)
 
